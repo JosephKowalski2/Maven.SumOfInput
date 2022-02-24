@@ -8,7 +8,7 @@ public class SumOfNumber {
     public static void main(String[] args){
         SumOfNumber main_object = new SumOfNumber();
 
-        //Early test case
+        //Early test case.
         //int x = 1 + 2 + 3 + 4;
         //System.out.println(x);
         //System.out.println(main_object.sumOfNumbers(100));
